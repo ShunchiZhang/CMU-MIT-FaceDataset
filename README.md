@@ -1,5 +1,7 @@
 # CMU / MIT Face Dataset
 
+![example](./example.png)
+
 |    name    | #img  | #face |                       source                        |
 | :--------: | :---: | :---: | :-------------------------------------------------: |
 |   `test`   |  42   |  169  | Henry A. Rowley, Shumeet Baluja, Takeo Kanade (CMU) |
